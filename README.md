@@ -1,8 +1,8 @@
 # Prework Study Guide Webpage
 
-![bad-math](https://img.shields.io/badge/HTML-33.3%25-blue "HTML")
-![bad-math](https://img.shields.io/badge/CSS-33.3%25-orange "CSS")
-![bad-math](https://img.shields.io/badge/JavaScript-33.3%25-yellow "JavaScript")
+![bad-math](https://img.shields.io/badge/HTML-62.1%25-orange "HTML")
+![bad-math](https://img.shields.io/badge/CSS-11.8%25-purple "CSS")
+![bad-math](https://img.shields.io/badge/JavaScript-26.1%25-yellow "JavaScript")
 
 ## Description
 
